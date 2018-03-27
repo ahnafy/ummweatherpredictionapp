@@ -1,0 +1,34 @@
+﻿<project version="2.9" name="phone" ID="C02C8CE6-7995-4C9A-BE65-0F15C8587744">
+  <params>
+    <pageParam version="5.1" minAllowVersion="5.1"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(414,736)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="830EBDE7-B4AB-4032-BA70-2C0816DD73AF" expanded="True" code="R526y4Fum1" thumbCode="R526y4Fum1" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="15E2E2206B218A3FC0702124741D279F.svg"/>
+        <image key="7410E23A39B782135FA70D8601201111.svg"/>
+        <image key="5730EABFCCE8D7CC3969C833DA1F5CF8.png"/>
+        <image key="1DF9A5D2898CC00BF75B063F07D00F5F.png"/>
+        <image key="A39253BB4B1EA562C0F6566BE3BA8420.png"/>
+      </images>
+    </page>
+    <page name="5pm" ID="E39FD997-6D9E-49DF-8FFD-35DE15E01EE2" expanded="True" code="CPjOJpU2PL" thumbCode="CPjOJpU2PL" status="psWhite" isfolder="False" isshownode="True"/>
+  </pages>
+  <trash>
+    <page name="mankato" ID="8464ECCB-ABE5-42BD-A523-FB44F052BA51" expanded="True" code="E4dBALuLDG" thumbCode="SbKDju56Jk" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="027D0B84-DDCE-4F09-9140-E96243A49C54" expanded="False" code="nbjOsUdz9V" thumbCode="2lKgBiv5xD" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="5pm" ID="A4FBB566-CCA4-4275-B99F-2C1067105ABD" expanded="True" code="Be3IG7RoYi" thumbCode="6rjWvwnDjG" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="15E2E2206B218A3FC0702124741D279F.svg"/>
+    <image key="A39253BB4B1EA562C0F6566BE3BA8420.png"/>
+    <image key="7410E23A39B782135FA70D8601201111.svg"/>
+    <image key="5730EABFCCE8D7CC3969C833DA1F5CF8.png"/>
+    <image key="1DF9A5D2898CC00BF75B063F07D00F5F.png"/>
+  </images>
+</project>
